@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "333274553165",
+    "project_id": "todo-list-10aac",
+    "storage_bucket": "todo-list-10aac.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333274553165:android:fecf3aac02754894d37504",
+        "android_client_info": {
+          "package_name": "com.example.mycatatan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2uuZX3MDu_dzSZ7t1C0HfM6DKNhmbKOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
